@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm </h1>
-<p>A passionate frontend developer from </p>
+<p>A passionate frontend developer from Nagpur</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
